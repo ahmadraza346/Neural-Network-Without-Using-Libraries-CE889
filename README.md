@@ -1,2 +1,2 @@
 # Neural-Network-Without-Using-Libraries-CE889
- 
+This program aims to create a feed-forward neural network with back-propagation to train a rocket landing in a game. For that purpose, game was played to collect the necessary data for training. Neural Network was created without the use of libraries. After training the neural network on the collected data, it was run on the rocket landing game in real time.
